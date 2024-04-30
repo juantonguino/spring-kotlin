@@ -43,7 +43,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
@@ -121,7 +120,7 @@
       <workItem from="1711505145433" duration="6186000" />
       <workItem from="1711511703660" duration="74000" />
       <workItem from="1714178734598" duration="911000" />
-      <workItem from="1714497258546" duration="2010000" />
+      <workItem from="1714497258546" duration="1459000" />
     </task>
     <servers />
   </component>
